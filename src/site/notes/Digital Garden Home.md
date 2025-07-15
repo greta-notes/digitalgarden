@@ -3,4 +3,4 @@
 ---
 
 this is the home page of the digital garden
-What is a [[experiments/Digital Garden\|Digital Garden]]?
+What is a [[Creating/Digital Garden\|Digital Garden]]?
